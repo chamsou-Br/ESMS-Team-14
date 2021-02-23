@@ -17,7 +17,7 @@ import Image6 from './Images/PLANET1-01.png'
 
 
 function App() {
-  console.logt("ESMS")
+  console.log("ESMS")
  window.onscroll = function(){
     const speakers = document.querySelector(".speakers");
     const agenda = document.querySelector('.Agenda');
